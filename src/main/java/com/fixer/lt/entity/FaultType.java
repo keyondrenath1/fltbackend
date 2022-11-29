@@ -1,0 +1,23 @@
+package com.fixer.lt.entity;
+
+public enum FaultType {
+  PLUMBING,
+  PAINT_WORK,
+  ELECTRICAL,
+  GAS,
+  ROOF,
+  CHIMNEY,
+  DRAINAGE,
+  WINDOWS,
+  DAMP,
+  GARDEN,
+  WOOD_WORK,
+  BOILER,
+  BEDDING,
+  SOFA,
+  TV,
+  HEATING,
+  SMOKE_ALARM,
+  DISH_WASHER,
+  WASHING_MACHINE,
+}
